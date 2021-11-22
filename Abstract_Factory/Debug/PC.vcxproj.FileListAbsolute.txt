@@ -1,0 +1,2 @@
+E:\Courses\Pattern\PC\Debug\Computer.exe
+E:\Courses\Pattern\PC\Debug\Computer.pdb
