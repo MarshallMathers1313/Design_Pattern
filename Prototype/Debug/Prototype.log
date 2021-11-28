@@ -1,0 +1,10 @@
+﻿  Prototype.cpp
+C:\Users\Student\source\repos\Prototype\Shape.h(60,23): error C2280: "Rectangle::Rectangle(Rectangle &)": предпринята попытка ссылки на удаленную функцию
+C:\Users\Student\source\repos\Prototype\Shape.h(50): message : см. объявление "Rectangle::Rectangle"
+C:\Users\Student\source\repos\Prototype\Shape.h(50,2): message : "Rectangle::Rectangle(Rectangle &)": функция явно удалена.
+C:\Users\Student\source\repos\Prototype\Shape.h(86,20): error C2280: "Circle::Circle(Circle &)": предпринята попытка ссылки на удаленную функцию
+C:\Users\Student\source\repos\Prototype\Shape.h(93): message : в этом месте создано компилятором: "Circle::Circle"
+C:\Users\Student\source\repos\Prototype\Shape.h(93,1): message : "Circle::Circle(Circle &)": функция неявно удалена, так как базовый класс вызывает удаленную или недоступную функцию "Shape::Shape(Shape &)".
+C:\Users\Student\source\repos\Prototype\Shape.h(19,2): message : "Shape::Shape(Shape &)": функция явно удалена.
+C:\Users\Student\source\repos\Prototype\Prototype.cpp(45,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Student\source\repos\Prototype\Prototype.cpp(56,20): warning C4018: <: несоответствие типов со знаком и без знака
